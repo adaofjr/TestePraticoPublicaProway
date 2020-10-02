@@ -37,3 +37,6 @@ Jogo : 4, Placar: 24, Mínimo da temporada: 10, Máximo da temporada: 24, Quebra
 - Testes unitários;
 - Controle de versão Git;
 - Documentação do código;
+
+
+*** Para rodar a aplicação, é necessário extrair os arquivos para o diretório "eclipse-workspace" ***
