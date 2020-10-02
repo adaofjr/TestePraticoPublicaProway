@@ -39,4 +39,4 @@ Jogo : 4, Placar: 24, Mínimo da temporada: 10, Máximo da temporada: 24, Quebra
 - Documentação do código;
 
 
-***IMPORTANTE: Para rodar a aplicação, é necessário extrair os arquivos para o diretório "eclipse-workspace".***
+***IMPORTANTE: Para rodar a aplicação, é necessário extrair o arquivo zip para o diretório "eclipse-workspace" e importar no Eclipse selecionando a opção "Existing Projects into Workspace".***
